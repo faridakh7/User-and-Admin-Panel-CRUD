@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Farid",
+      "surname": "Babayev",
+      "email": "farid.b@code.edu.az",
+      "password": "farid123"
+    },
+    {
+      "id": 2,
+      "name": "Murad",
+      "surname": "Mikayilzada",
+      "email": "m.murad@code.edu.az",
+      "password": "123456789"
+    },
+    {
+      "id": 3,
+      "name": "Samir",
+      "surname": "Karimov",
+      "email": "karimovs@gmail.com",
+      "password": "samir123"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "surname": "Admin",
+      "email": "admin",
+      "password": "admin"
+    }
+  ]
+}
